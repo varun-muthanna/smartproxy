@@ -1,0 +1,5 @@
+{
+    "banned_domains" : ["httpforever.com"],
+    "upstreamAddr" : "localhost:8080",
+    "listen_address": ":8082"
+}
